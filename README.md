@@ -1,5 +1,9 @@
 # Projeto_1_Programa_Desenvolve_GB
 
+
+<img width="988" height="799" alt="Image" src="https://github.com/user-attachments/assets/33b05318-28d4-428d-a9fb-77b84462f37d" />
+
+
 ## Projeto: Data-Driven Insights
 
 Este repositório contém um projeto prático de **exploração e visualização de dados com Python**, utilizando uma base de **dados simulados de vendas** disponível no Kaggle.
