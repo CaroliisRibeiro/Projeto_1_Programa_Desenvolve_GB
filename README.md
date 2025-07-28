@@ -48,7 +48,7 @@ A base contém informações como:
 
 ### Funcionalidades do Projeto
 
-✔️ Uso de **listas, tuplas e dicionários**
+* ✔️ Uso de **listas, tuplas e dicionários**
 ✔️ Aplicação de **condicionais** (`if/else`) e **loops** (`for`, `while`)
 ✔️ **Manipulação de dados com pandas** (criação, exclusão, modificação de colunas)
 ✔️ Operações vetoriais com **NumPy**
