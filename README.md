@@ -69,7 +69,7 @@ A base contém informações como:
 
 ## Relatório Final – *Data Driven Insights*
 
-Neste projeto, explorei a base **Sample Sales Data**, com um total de **N linhas e Y colunas** (substituir após análise final). A base traz informações sobre pedidos, produtos, clientes e valores de vendas.
+Neste projeto, explorei a base **Sample Sales Data**, com um total de **2823 linhas e 25 colunas**. A base traz informações sobre pedidos, produtos, clientes e valores de vendas.
 
 Ao longo da análise, utilizei **listas, tuplas, dicionários, estruturas condicionais, laços, arrays NumPy e visualizações com matplotlib**, extraindo padrões e curiosidades sobre comportamento de compra, sazonalidade e produtos mais relevantes.
 
