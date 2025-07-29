@@ -158,7 +158,7 @@ Com essas análises, novas perguntas podem ser investigadas:
 
 ### Como Executar
 
-1. Abra o notebook `data_driven_insights.ipynb` no [Google Colab](https://colab.research.google.com/drive/1-DsItyT-BvNIqPNnQDT2xHAgA9f3S8Dc#scrollTo=ZXAFTc-I8F6T)
+1. Abra o notebook `data_driven_insights.ipynb` no [Google Colab]https://colab.research.google.com/drive/1-DsItyT-BvNIqPNnQDT2xHAgA9f3S8Dc?usp=sharing)
 2. Execute as células em ordem
 3. Siga as anotações em Markdown para entender cada etapa da análise
 
